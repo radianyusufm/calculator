@@ -22,7 +22,7 @@ html {
     gap: 5px;
 }
 
-.display {
+#display {
     display: flex;
     align-items: center;
     justify-content: end;
